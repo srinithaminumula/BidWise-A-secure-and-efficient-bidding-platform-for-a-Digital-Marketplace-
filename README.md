@@ -4,5 +4,7 @@ The system is designed to simplify the traditional auction process by bringing i
 
 Technologies Used :- 
 Frontend :- React.js, HTML, CSS,  JavaScript 
+
 Backend :- NNode.js, Express.js
+
 Database :- MongoDB
