@@ -2,7 +2,8 @@ BidWise is a secure and efficient digital marketplace platform that enables user
 
 The system is designed to simplify the traditional auction process by bringing it to an online platform with automated bidding, secure authentication, and real-time updates.
 
-Technologies Used :- 
+Technologies Used :-
+
 Frontend :- React.js, HTML, CSS,  JavaScript 
 
 Backend :- NNode.js, Express.js
